@@ -20,8 +20,8 @@ Bot: Goodbye!
 
 Deploy as a web or mobile chatbot
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-subhadipsinha722133
+# subhadipsinha722133
 
 ✨ A simple yet powerful starting point for building your own chatbot!
